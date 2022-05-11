@@ -1,3 +1,4 @@
+Talk is cheap, show me the code. --Linus Torvalds
 - 👋 Hi, I’m @W-EdwardJin
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Coding.
